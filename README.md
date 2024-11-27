@@ -1,4 +1,4 @@
-## End to End Machine Learning Project (In progress)
+## End to End Machine Learning Project
 # Student Performance Indicator
 
 ## Overview
