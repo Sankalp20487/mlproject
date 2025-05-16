@@ -2,7 +2,7 @@
 # Student Performance Indicator
 
 ## Overview
-This project analyzes how various factors such as gender, ethnicity, parental education, lunch type, and test preparation courses influence student test scores. Using a dataset of 1000 students, we apply machine learning models to predict performance and derive insights.
+This project analyzes how various factors such as gender, ethnicity, parental education, lunch type, and test preparation courses influence student test scores. Using a dataset of student performance, we apply machine learning models to predict performance and derive insights.
 
 ## Webapp Snapshot
 
