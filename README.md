@@ -4,6 +4,11 @@
 ## Overview
 This project analyzes how various factors such as gender, ethnicity, parental education, lunch type, and test preparation courses influence student test scores. Using a dataset of 1000 students, we apply machine learning models to predict performance and derive insights.
 
+## Webapp Snapshot
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/b80af7de-cb54-491a-863a-c072cbfe886c" />
+
+
 ## Key Features
 - Comprehensive data analysis to explore the impact of different variables on students' test scores.
 - Application of multiple regression models to predict student performance.
